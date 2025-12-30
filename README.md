@@ -4,7 +4,6 @@ Applied quantitative finance models to analyze market risk across multiple finan
 
 
 ## Academic Context
-**Program:** ESILV  
 **Course:** Market Risk  
 **School:** ESILV  
 **Year:** 2025-2026  
