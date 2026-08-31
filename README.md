@@ -1,19 +1,6 @@
-# Market Risk Analysis Project (2025-2026)
+# Market Risk Analysis Project
 
 Applied quantitative finance models to analyze market risk across multiple financial datasets and time scales.
-
-
-## Academic Context
-**Course:** Market Risk  
-**School:** ESILV  
-**Year:** 2025-2026  
-**Coordinator:** Matthieu Garcin  
-**Professor:** Nicolas Pesci  
-
-
-## Authors
-- Matthieu HANNA GERGUIS  
-- Renaud DE L'EPINE  
 
 ---
 
